@@ -1,0 +1,268 @@
+\xpg@aux {}{english}
+\contentsline {section}{Statement of Authorship and AI Assistance}{3}{section*.1}%
+\contentsline {section}{Research Methodology}{6}{section*.3}%
+\contentsline {part}{Part\ I\hspace {\betweenumberspace }Classical Dynamical Systems}{13}{part.1}%
+\contentsline {chapter}{\numberline {1}The Lorenz Strange Attractor Model}{15}{chapter.1}%
+\contentsline {section}{\numberline {1}Domain}{15}{section.1.1}%
+\contentsline {section}{\numberline {2}System Model}{15}{section.1.2}%
+\contentsline {section}{\numberline {3}Description}{15}{section.1.3}%
+\contentsline {section}{\numberline {4}Set of Equations}{15}{section.1.4}%
+\contentsline {section}{\numberline {5}Explanation of Terms}{15}{section.1.5}%
+\contentsline {section}{\numberline {6}Note on the Problem}{16}{section.1.6}%
+\contentsline {section}{\numberline {7}config.py Values}{16}{section.1.7}%
+\contentsline {section}{\numberline {8}input\_data.csv Values}{16}{section.1.8}%
+\contentsline {section}{\numberline {9}Initial State Vector}{16}{section.1.9}%
+\contentsline {section}{\numberline {10}Final State Vector}{16}{section.1.10}%
+\contentsline {section}{\numberline {11}3D Phase Plot}{17}{section.1.11}%
+\contentsline {section}{\numberline {12}2D Evolution Plot}{17}{section.1.12}%
+\contentsline {section}{\numberline {13}Analysis of the Output}{18}{section.1.13}%
+\contentsline {section}{\numberline {14}Conclusion}{18}{section.1.14}%
+\contentsline {chapter}{\numberline {2}The Lotka-Volterra Predator-Prey Model}{19}{chapter.2}%
+\contentsline {section}{\numberline {1}Domain}{19}{section.2.1}%
+\contentsline {section}{\numberline {2}System Model}{19}{section.2.2}%
+\contentsline {section}{\numberline {3}Description}{19}{section.2.3}%
+\contentsline {section}{\numberline {4}Set of Equations}{19}{section.2.4}%
+\contentsline {section}{\numberline {5}Explanation of Terms}{19}{section.2.5}%
+\contentsline {section}{\numberline {6}Note on the Problem}{20}{section.2.6}%
+\contentsline {section}{\numberline {7}config.py Values}{20}{section.2.7}%
+\contentsline {section}{\numberline {8}input\_data.csv Values}{20}{section.2.8}%
+\contentsline {section}{\numberline {9}Initial State Vector}{20}{section.2.9}%
+\contentsline {section}{\numberline {10}Final State Vector}{20}{section.2.10}%
+\contentsline {section}{\numberline {11}3D Phase Plot}{21}{section.2.11}%
+\contentsline {section}{\numberline {12}2D Evolution Plot}{21}{section.2.12}%
+\contentsline {section}{\numberline {13}Analysis of the Output}{22}{section.2.13}%
+\contentsline {section}{\numberline {14}Conclusion}{22}{section.2.14}%
+\contentsline {chapter}{\numberline {3}The Rossler Attractor}{23}{chapter.3}%
+\contentsline {section}{\numberline {1}Domain}{23}{section.3.1}%
+\contentsline {section}{\numberline {2}System Model}{23}{section.3.2}%
+\contentsline {section}{\numberline {3}Description}{23}{section.3.3}%
+\contentsline {section}{\numberline {4}Set of Equations}{23}{section.3.4}%
+\contentsline {section}{\numberline {5}Explanation of Terms}{23}{section.3.5}%
+\contentsline {section}{\numberline {6}Note on the Problem}{24}{section.3.6}%
+\contentsline {section}{\numberline {7}config.py Values}{24}{section.3.7}%
+\contentsline {section}{\numberline {8}input\_data.csv Values}{24}{section.3.8}%
+\contentsline {section}{\numberline {9}Initial State Vector}{24}{section.3.9}%
+\contentsline {section}{\numberline {10}Final State Vector}{24}{section.3.10}%
+\contentsline {section}{\numberline {11}3D Phase Plot}{25}{section.3.11}%
+\contentsline {section}{\numberline {12}2D Evolution Plot}{25}{section.3.12}%
+\contentsline {section}{\numberline {13}Analysis of the Output}{26}{section.3.13}%
+\contentsline {section}{\numberline {14}Conclusion}{26}{section.3.14}%
+\contentsline {part}{Part\ II\hspace {\betweenumberspace }Navier Stokes System based NCAR-WRF Weather Forecast Model}{27}{part.2}%
+\contentsline {chapter}{\numberline {4}The Navier-Stokes 2D Fluid Flow Model}{29}{chapter.4}%
+\contentsline {section}{\numberline {1}Domain}{29}{section.4.1}%
+\contentsline {section}{\numberline {2}System Model}{29}{section.4.2}%
+\contentsline {section}{\numberline {3}Description}{29}{section.4.3}%
+\contentsline {section}{\numberline {4}Set of Equations}{29}{section.4.4}%
+\contentsline {section}{\numberline {5}Explanation of Terms}{29}{section.4.5}%
+\contentsline {section}{\numberline {6}Note on the Problem}{30}{section.4.6}%
+\contentsline {section}{\numberline {7}config.py Values}{30}{section.4.7}%
+\contentsline {section}{\numberline {8}input\_data.csv Values}{30}{section.4.8}%
+\contentsline {section}{\numberline {9}Initial State Vector}{30}{section.4.9}%
+\contentsline {section}{\numberline {10}Final State Vector}{30}{section.4.10}%
+\contentsline {section}{\numberline {11}3D Phase Plot}{31}{section.4.11}%
+\contentsline {section}{\numberline {12}2D Evolution Plot}{31}{section.4.12}%
+\contentsline {section}{\numberline {13}Analysis of the Output}{32}{section.4.13}%
+\contentsline {section}{\numberline {14}Conclusion}{32}{section.4.14}%
+\contentsline {part}{Part\ III\hspace {\betweenumberspace }Celestial Mechanics}{33}{part.3}%
+\contentsline {chapter}{\numberline {5}The Newtonian General Three-Body Problem}{35}{chapter.5}%
+\contentsline {section}{\numberline {1}Domain}{35}{section.5.1}%
+\contentsline {section}{\numberline {2}System Model}{35}{section.5.2}%
+\contentsline {section}{\numberline {3}Description}{35}{section.5.3}%
+\contentsline {section}{\numberline {4}Set of Equations}{35}{section.5.4}%
+\contentsline {section}{\numberline {5}Explanation of Terms}{35}{section.5.5}%
+\contentsline {section}{\numberline {6}Note on the Problem}{36}{section.5.6}%
+\contentsline {section}{\numberline {7}config.py Values}{36}{section.5.7}%
+\contentsline {section}{\numberline {8}input\_data.csv Values}{36}{section.5.8}%
+\contentsline {section}{\numberline {9}Initial State Vector}{36}{section.5.9}%
+\contentsline {section}{\numberline {10}Final State Vector}{37}{section.5.10}%
+\contentsline {section}{\numberline {11}3D Phase Plot}{38}{section.5.11}%
+\contentsline {section}{\numberline {12}2D Evolution Plot}{38}{section.5.12}%
+\contentsline {section}{\numberline {13}Analysis of the Output}{39}{section.5.13}%
+\contentsline {section}{\numberline {14}Conclusion}{39}{section.5.14}%
+\contentsline {chapter}{\numberline {6}The Post-Newtonian Three-Body Problem}{41}{chapter.6}%
+\contentsline {section}{\numberline {1}Domain}{41}{section.6.1}%
+\contentsline {section}{\numberline {2}System Model}{41}{section.6.2}%
+\contentsline {section}{\numberline {3}Description}{41}{section.6.3}%
+\contentsline {section}{\numberline {4}Set of Equations}{41}{section.6.4}%
+\contentsline {section}{\numberline {5}Explanation of Terms}{42}{section.6.5}%
+\contentsline {section}{\numberline {6}Note on the Problem}{42}{section.6.6}%
+\contentsline {section}{\numberline {7}config.py Values}{42}{section.6.7}%
+\contentsline {section}{\numberline {8}input\_data.csv Values}{42}{section.6.8}%
+\contentsline {section}{\numberline {9}Initial State Vector}{42}{section.6.9}%
+\contentsline {section}{\numberline {10}Final State Vector}{43}{section.6.10}%
+\contentsline {section}{\numberline {11}3D Phase Plot}{44}{section.6.11}%
+\contentsline {section}{\numberline {12}2D Evolution Plot}{44}{section.6.12}%
+\contentsline {section}{\numberline {13}Analysis of the Output}{45}{section.6.13}%
+\contentsline {section}{\numberline {14}Conclusion}{45}{section.6.14}%
+\contentsline {part}{Part\ IV\hspace {\betweenumberspace }Epidemology}{47}{part.4}%
+\contentsline {chapter}{\numberline {7}The SIR Compartmental Epidemic Model}{49}{chapter.7}%
+\contentsline {section}{\numberline {1}Domain}{49}{section.7.1}%
+\contentsline {section}{\numberline {2}System Model}{49}{section.7.2}%
+\contentsline {section}{\numberline {3}Description}{49}{section.7.3}%
+\contentsline {section}{\numberline {4}Set of Equations}{49}{section.7.4}%
+\contentsline {section}{\numberline {5}Explanation of Terms}{49}{section.7.5}%
+\contentsline {section}{\numberline {6}Note on the Problem}{50}{section.7.6}%
+\contentsline {section}{\numberline {7}config.py Values}{50}{section.7.7}%
+\contentsline {section}{\numberline {8}input\_data.csv Values}{50}{section.7.8}%
+\contentsline {section}{\numberline {9}Initial State Vector}{50}{section.7.9}%
+\contentsline {section}{\numberline {10}Final State Vector}{50}{section.7.10}%
+\contentsline {section}{\numberline {11}3D Phase Plot}{51}{section.7.11}%
+\contentsline {section}{\numberline {12}2D Evolution Plot}{51}{section.7.12}%
+\contentsline {section}{\numberline {13}Analysis of the Output}{52}{section.7.13}%
+\contentsline {section}{\numberline {14}Conclusion}{52}{section.7.14}%
+\contentsline {part}{Part\ V\hspace {\betweenumberspace }Non-Linear Oscillators}{53}{part.5}%
+\contentsline {chapter}{\numberline {8}The Van der Pol Oscillator}{55}{chapter.8}%
+\contentsline {section}{\numberline {1}Domain}{55}{section.8.1}%
+\contentsline {section}{\numberline {2}System Model}{55}{section.8.2}%
+\contentsline {section}{\numberline {3}Description}{55}{section.8.3}%
+\contentsline {section}{\numberline {4}Set of Equations}{55}{section.8.4}%
+\contentsline {section}{\numberline {5}Explanation of Terms}{55}{section.8.5}%
+\contentsline {section}{\numberline {6}Note on the Problem}{56}{section.8.6}%
+\contentsline {section}{\numberline {7}config.py Values}{56}{section.8.7}%
+\contentsline {section}{\numberline {8}input\_data.csv Values}{56}{section.8.8}%
+\contentsline {section}{\numberline {9}Initial State Vector}{56}{section.8.9}%
+\contentsline {section}{\numberline {10}Final State Vector}{56}{section.8.10}%
+\contentsline {section}{\numberline {11}3D Phase Plot}{57}{section.8.11}%
+\contentsline {section}{\numberline {12}2D Evolution Plot}{57}{section.8.12}%
+\contentsline {section}{\numberline {13}Analysis of the Output}{58}{section.8.13}%
+\contentsline {section}{\numberline {14}Conclusion}{58}{section.8.14}%
+\contentsline {chapter}{\numberline {9}The Duffing Oscillator}{59}{chapter.9}%
+\contentsline {section}{\numberline {1}Domain}{59}{section.9.1}%
+\contentsline {section}{\numberline {2}System Model}{59}{section.9.2}%
+\contentsline {section}{\numberline {3}Description}{59}{section.9.3}%
+\contentsline {section}{\numberline {4}Set of Equations}{59}{section.9.4}%
+\contentsline {section}{\numberline {5}Explanation of Terms}{59}{section.9.5}%
+\contentsline {section}{\numberline {6}Note on the Problem}{60}{section.9.6}%
+\contentsline {section}{\numberline {7}config.py Values}{60}{section.9.7}%
+\contentsline {section}{\numberline {8}input\_data.csv Values}{60}{section.9.8}%
+\contentsline {section}{\numberline {9}Initial State Vector}{60}{section.9.9}%
+\contentsline {section}{\numberline {10}Final State Vector}{60}{section.9.10}%
+\contentsline {section}{\numberline {11}3D Phase Plot}{61}{section.9.11}%
+\contentsline {section}{\numberline {12}2D Evolution Plot}{61}{section.9.12}%
+\contentsline {section}{\numberline {13}Analysis of the Output}{62}{section.9.13}%
+\contentsline {section}{\numberline {14}Conclusion}{62}{section.9.14}%
+\contentsline {part}{Part\ VI\hspace {\betweenumberspace }Chemical Kinetics}{63}{part.6}%
+\contentsline {chapter}{\numberline {10}The Oregonator Chemical Oscillator}{65}{chapter.10}%
+\contentsline {section}{\numberline {1}Domain}{65}{section.10.1}%
+\contentsline {section}{\numberline {2}System Model}{65}{section.10.2}%
+\contentsline {section}{\numberline {3}Description}{65}{section.10.3}%
+\contentsline {section}{\numberline {4}Set of Equations}{65}{section.10.4}%
+\contentsline {section}{\numberline {5}Explanation of Terms}{65}{section.10.5}%
+\contentsline {section}{\numberline {6}Note on the Problem}{66}{section.10.6}%
+\contentsline {section}{\numberline {7}config.py Values}{66}{section.10.7}%
+\contentsline {section}{\numberline {8}input\_data.csv Values}{66}{section.10.8}%
+\contentsline {section}{\numberline {9}Initial State Vector}{66}{section.10.9}%
+\contentsline {section}{\numberline {10}Final State Vector}{66}{section.10.10}%
+\contentsline {section}{\numberline {11}3D Phase Plot}{67}{section.10.11}%
+\contentsline {section}{\numberline {12}2D Evolution Plot}{67}{section.10.12}%
+\contentsline {section}{\numberline {13}Analysis of the Output}{68}{section.10.13}%
+\contentsline {section}{\numberline {14}Conclusion}{68}{section.10.14}%
+\contentsline {chapter}{\numberline {11}The Brusselator Oscillator}{69}{chapter.11}%
+\contentsline {section}{\numberline {1}Domain}{69}{section.11.1}%
+\contentsline {section}{\numberline {2}System Model}{69}{section.11.2}%
+\contentsline {section}{\numberline {3}Description}{69}{section.11.3}%
+\contentsline {section}{\numberline {4}Set of Equations}{69}{section.11.4}%
+\contentsline {section}{\numberline {5}Explanation of Terms}{69}{section.11.5}%
+\contentsline {section}{\numberline {6}Note on the Problem}{70}{section.11.6}%
+\contentsline {section}{\numberline {7}config.py Values}{70}{section.11.7}%
+\contentsline {section}{\numberline {8}input\_data.csv Values}{70}{section.11.8}%
+\contentsline {section}{\numberline {9}Initial State Vector}{70}{section.11.9}%
+\contentsline {section}{\numberline {10}Final State Vector}{70}{section.11.10}%
+\contentsline {section}{\numberline {11}3D Phase Plot}{71}{section.11.11}%
+\contentsline {section}{\numberline {12}2D Evolution Plot}{71}{section.11.12}%
+\contentsline {section}{\numberline {13}Analysis of the Output}{72}{section.11.13}%
+\contentsline {section}{\numberline {14}Conclusion}{72}{section.11.14}%
+\contentsline {part}{Part\ VII\hspace {\betweenumberspace }Cosmology}{73}{part.7}%
+\contentsline {chapter}{\numberline {12}The FLRW Cosmology Universe Model}{75}{chapter.12}%
+\contentsline {section}{\numberline {1}Domain}{75}{section.12.1}%
+\contentsline {section}{\numberline {2}System Model}{75}{section.12.2}%
+\contentsline {section}{\numberline {3}Description}{75}{section.12.3}%
+\contentsline {section}{\numberline {4}Set of Equations}{75}{section.12.4}%
+\contentsline {section}{\numberline {5}Explanation of Terms}{75}{section.12.5}%
+\contentsline {section}{\numberline {6}Note on the Problem}{76}{section.12.6}%
+\contentsline {section}{\numberline {7}config.py Values}{76}{section.12.7}%
+\contentsline {section}{\numberline {8}input\_data.csv Values}{76}{section.12.8}%
+\contentsline {section}{\numberline {9}Initial State Vector}{76}{section.12.9}%
+\contentsline {section}{\numberline {10}Final State Vector}{76}{section.12.10}%
+\contentsline {section}{\numberline {11}3D Phase Plot}{77}{section.12.11}%
+\contentsline {section}{\numberline {12}2D Evolution Plot}{77}{section.12.12}%
+\contentsline {section}{\numberline {13}Analysis of the Output}{78}{section.12.13}%
+\contentsline {section}{\numberline {14}Conclusion}{78}{section.12.14}%
+\contentsline {part}{Part\ VIII\hspace {\betweenumberspace }General Relativity}{79}{part.8}%
+\contentsline {chapter}{\numberline {13}The Schwarzschild Orbit Model}{81}{chapter.13}%
+\contentsline {section}{\numberline {1}Domain}{81}{section.13.1}%
+\contentsline {section}{\numberline {2}System Model}{81}{section.13.2}%
+\contentsline {section}{\numberline {3}Description}{81}{section.13.3}%
+\contentsline {section}{\numberline {4}Set of Equations}{81}{section.13.4}%
+\contentsline {section}{\numberline {5}Explanation of Terms}{81}{section.13.5}%
+\contentsline {section}{\numberline {6}Note on the Problem}{82}{section.13.6}%
+\contentsline {section}{\numberline {7}config.py Values}{82}{section.13.7}%
+\contentsline {section}{\numberline {8}input\_data.csv Values}{82}{section.13.8}%
+\contentsline {section}{\numberline {9}Initial State Vector}{82}{section.13.9}%
+\contentsline {section}{\numberline {10}Final State Vector}{82}{section.13.10}%
+\contentsline {section}{\numberline {11}3D Phase Plot}{83}{section.13.11}%
+\contentsline {section}{\numberline {12}2D Evolution Plot}{83}{section.13.12}%
+\contentsline {section}{\numberline {13}Analysis of the Output}{84}{section.13.13}%
+\contentsline {section}{\numberline {14}Conclusion}{84}{section.13.14}%
+\contentsline {chapter}{\numberline {14}The Regge-Wheeler Black Hole Spacetime Curvature Model}{85}{chapter.14}%
+\contentsline {section}{\numberline {1}Domain}{85}{section.14.1}%
+\contentsline {section}{\numberline {2}System Model}{85}{section.14.2}%
+\contentsline {section}{\numberline {3}Description}{85}{section.14.3}%
+\contentsline {section}{\numberline {4}Set of Equations}{85}{section.14.4}%
+\contentsline {section}{\numberline {5}Explanation of Terms}{85}{section.14.5}%
+\contentsline {section}{\numberline {6}Note on the Problem}{86}{section.14.6}%
+\contentsline {section}{\numberline {7}config.py Values}{86}{section.14.7}%
+\contentsline {section}{\numberline {8}input\_data.csv Values}{86}{section.14.8}%
+\contentsline {section}{\numberline {9}Initial State Vector}{86}{section.14.9}%
+\contentsline {section}{\numberline {10}Final State Vector}{86}{section.14.10}%
+\contentsline {section}{\numberline {11}3D Phase Plot}{87}{section.14.11}%
+\contentsline {section}{\numberline {12}2D Evolution Plot}{87}{section.14.12}%
+\contentsline {section}{\numberline {13}Analysis of the Output}{88}{section.14.13}%
+\contentsline {section}{\numberline {14}Conclusion}{88}{section.14.14}%
+\contentsline {part}{Part\ IX\hspace {\betweenumberspace }Quantum Mechanics}{89}{part.9}%
+\contentsline {chapter}{\numberline {15}The Time-Dependent Schrodinger Wave Model}{91}{chapter.15}%
+\contentsline {section}{\numberline {1}Domain}{91}{section.15.1}%
+\contentsline {section}{\numberline {2}System Model}{91}{section.15.2}%
+\contentsline {section}{\numberline {3}Description}{91}{section.15.3}%
+\contentsline {section}{\numberline {4}Set of Equations}{91}{section.15.4}%
+\contentsline {section}{\numberline {5}Explanation of Terms}{91}{section.15.5}%
+\contentsline {section}{\numberline {6}Note on the Problem}{92}{section.15.6}%
+\contentsline {section}{\numberline {7}config.py Values}{92}{section.15.7}%
+\contentsline {section}{\numberline {8}input\_data.csv Values}{92}{section.15.8}%
+\contentsline {section}{\numberline {9}Initial State Vector}{92}{section.15.9}%
+\contentsline {section}{\numberline {10}Final State Vector}{92}{section.15.10}%
+\contentsline {section}{\numberline {11}3D Phase Plot}{93}{section.15.11}%
+\contentsline {section}{\numberline {12}2D Evolution Plot}{93}{section.15.12}%
+\contentsline {section}{\numberline {13}Analysis of the Output}{94}{section.15.13}%
+\contentsline {section}{\numberline {14}Conclusion}{94}{section.15.14}%
+\contentsline {chapter}{\numberline {16}The Gross-Pitaevskii Model)}{95}{chapter.16}%
+\contentsline {section}{\numberline {1}Domain}{95}{section.16.1}%
+\contentsline {section}{\numberline {2}System Model}{95}{section.16.2}%
+\contentsline {section}{\numberline {3}Description}{95}{section.16.3}%
+\contentsline {section}{\numberline {4}Set of Equations}{95}{section.16.4}%
+\contentsline {section}{\numberline {5}Explanation of Terms}{95}{section.16.5}%
+\contentsline {section}{\numberline {6}Note on the Problem}{96}{section.16.6}%
+\contentsline {section}{\numberline {7}config.py Values}{96}{section.16.7}%
+\contentsline {section}{\numberline {8}input\_data.csv Values}{96}{section.16.8}%
+\contentsline {section}{\numberline {9}Initial State Vector}{96}{section.16.9}%
+\contentsline {section}{\numberline {10}Final State Vector}{96}{section.16.10}%
+\contentsline {section}{\numberline {11}3D Phase Plot}{97}{section.16.11}%
+\contentsline {section}{\numberline {12}2D Evolution Plot}{97}{section.16.12}%
+\contentsline {section}{\numberline {13}Analysis of the Output}{98}{section.16.13}%
+\contentsline {section}{\numberline {14}Conclusion}{98}{section.16.14}%
+\contentsline {part}{Part\ X\hspace {\betweenumberspace }Unification of General Relativity, Classical Systems and Quantum Mechanics - An Approach to developing the Theory of Everything / Grand Unified Theory}{99}{part.10}%
+\contentsline {chapter}{\numberline {17}An Approach towards Grand Unification Theory (GUT) / Theory of Everything (TOE)}{101}{chapter.17}%
+\contentsline {section}{\numberline {1}Domain}{101}{section.17.1}%
+\contentsline {section}{\numberline {2}System Model}{101}{section.17.2}%
+\contentsline {section}{\numberline {3}Description}{101}{section.17.3}%
+\contentsline {section}{\numberline {4}Set of Equations}{101}{section.17.4}%
+\contentsline {section}{\numberline {5}Explanation of Terms}{102}{section.17.5}%
+\contentsline {section}{\numberline {6}Note on the Problem}{102}{section.17.6}%
+\contentsline {section}{\numberline {7}config.py Values}{102}{section.17.7}%
+\contentsline {section}{\numberline {8}input\_data.csv Values}{102}{section.17.8}%
+\contentsline {section}{\numberline {9}Initial State Vector}{102}{section.17.9}%
+\contentsline {section}{\numberline {10}Final State Vector}{103}{section.17.10}%
+\contentsline {section}{\numberline {11}3D Phase Plot}{104}{section.17.11}%
+\contentsline {section}{\numberline {12}2D Evolution Plot}{104}{section.17.12}%
+\contentsline {section}{\numberline {13}Analysis of the Output}{105}{section.17.13}%
+\contentsline {section}{\numberline {14}Conclusion}{105}{section.17.14}%

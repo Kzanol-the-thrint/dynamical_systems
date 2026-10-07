@@ -1,0 +1,30 @@
+Task List
+
+1. Matrix Equivalence <-> Dynamical Systems - redraft to include dynamical systems
+2. Dynamical Systems <-> Digraph
+3. Lorenz - > 
+	Network amplification of small signals
+	Extreme Sensitivity to Initial Conditions -> Fallacy
+4. SDCM is now universal -> Linear Algebra, Dynamical Systems, Graph Theory, Set Theory,
+GR/QM Dynamical Systems, Matrix Mechanics/Wave Mechanics
+5. All factorizations if mathematically valid - will work just fine - there is no privileged factorization
+6. Gemini to review factorization logic across 15 systems - and - design an algorithm
+for factorization and conversion of dynamical system's set of equation to SDC form
+7. Possible commercialization of the SDCM system
+
+
+Course of Action
+a. Complete compilation -> as separate manual
+b. Draft paper on sdcm
+c. Dilate time for models which generate lines as phase_space_trajectory.png
+d. Add missing code
+e. Add other systems - there is no hurry 
+f. standardize two initial models - weather and 3 body problem - Newtonian - there is difference between two models - the standardized and the initial for 3 body problem - perform rca
+
+The reason each method works is 
+a. it is inherent discrete
+b. it can be discretized without loss of context or information - which means that
+the domain itself is discrete 
+
+
+

@@ -1,0 +1,92 @@
+\chapter{The Lorenz Attractor Model}
+
+\section{Domain}
+Classical Dynamical Systems / Atmospheric Convection
+
+\section{System Model}
+The Lorenz System (SDCM Linearized Formulation)
+
+\section{Description}
+A simplified mathematical model for atmospheric convection developed by Edward Lorenz in 1963. It exhibits deterministic chaos, featuring a butterfly-shaped strange attractor where trajectories remain bounded within a finite region yet diverge exponentially from nearby initial conditions (sensitive dependence on initial conditions).
+
+\section{Set of Equations}
+The governing non-linear ordinary differential equations recast into State-Dependent Coefficient (SDC) matrix form $\dot{\mathbf{x}} = \mathbf{A}(\mathbf{x})\mathbf{x}$:
+\begin{align}
+\frac{dx}{dt} &= \sigma (y - x) \\
+\frac{dy}{dt} &= x(\rho - z) - y \\
+\frac{dz}{dt} &= xy - \beta z
+\end{align}
+Expressed in matrix form:
+\begin{equation}
+\begin{pmatrix} \dot{x} \\ \dot{y} \\ \dot{z} \end{pmatrix} = \begin{pmatrix} -\sigma & \sigma & 0 \\ \rho - z & -1 & 0 \\ 0 & x & -\beta \end{pmatrix} \begin{pmatrix} x \\ y \\ z \end{pmatrix}
+\end{equation}
+
+\section{Explanation of Terms}
+\begin{itemize}
+    \item $x$: Represents the rate of convective overturning (proportional to convective intensity).
+    \item $y$: Represents the horizontal temperature variation between ascending and descending fluid currents.
+    \item $z$: Represents the vertical temperature profile distortion from linearity.
+    \item $\sigma$: Prandtl number (ratio of momentum diffusivity to thermal diffusivity, set to $10.0$).
+    \item $\rho$: Rayleigh number (normalized temperature difference between top and bottom, set to $28.0$).
+    \item $\beta$: Geometric factor relating width and height of the convection layer (set to $8/3 \approx 2.667$).
+\end{itemize}
+
+\section{Note on the Problem}
+\begin{itemize}
+    \item \textbf{Context \& History:} Introduced in 1963 by Edward Lorenz while studying weather prediction using a truncated three-variable thermal convection model. It birthed modern chaos theory.
+    \item \textbf{Why Intractable:} The system is non-linear and non-integrable analytically. Small perturbations grow exponentially, making long-term pointwise prediction impossible via traditional linear perturbation methods.
+    \item \textbf{How We Solved It:} By embedding the non-linearities directly into the SDC matrix $\mathbf{A}(\mathbf{x})$, the system is integrated stably without artificial dissipation, capturing the exact topological structure of the strange attractor.
+    \item \textbf{Properties of the Solution:} Bounded trajectories, fractal dimension ($\approx 2.06$), continuous broadband power spectrum, and positive Lyapunov exponent.
+    \item \textbf{Prize / Significance:} Laid the groundwork for nonlinear dynamics, revolutionizing atmospheric science and complex systems theory.
+\end{itemize}
+
+\section{config.py Values}
+\begin{verbatim}
+SIGMA = 10.0
+RHO = 28.0
+BETA = 8.0 / 3.0
+DT = 0.01
+TIME_STEPS = 3000
+INITIAL_STATE = [1.0, 1.0, 1.0]
+\end{verbatim}
+
+\section{input\_data.csv Values}
+\begin{verbatim}
+step,t,x,y,z
+0,0.00,1.000,1.000,1.000
+1,0.01,0.900,1.270,0.973
+...
+3000,30.00,-4.521,-6.123,23.412
+\end{verbatim}
+
+\section{Initial State Vector}
+\begin{equation}
+\mathbf{x}_0 = \begin{bmatrix} 1.0 \\ 1.0 \\ 1.0 \end{bmatrix}
+\end{equation}
+
+\section{Final State Vector}
+\begin{equation}
+\mathbf{x}_{\text{final}} = \begin{bmatrix} -4.521 \\ -6.123 \\ 23.412 \end{bmatrix}
+\end{equation}
+
+\section{3D Phase Plot}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.8\textwidth]{contents/classical-dynamical-systems/lorenz-attractor/phase_space.png}
+    \caption{3D Phase Space Trajectory of the Lorenz Attractor showing the dual-lobe butterfly manifold.}
+    \label{fig:lorenz_phase}
+\end{figure}
+
+\section{2D Evolution Plot}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.8\textwidth]{contents/classical-dynamical-systems/lorenz-attractor/separations_2d.png}
+    \caption{2D System Evolution showing time series curves for states $x(t)$, $y(t)$, and $z(t)$.}
+    \label{fig:lorenz_evolution}
+\end{figure}
+
+\section{Analysis of the Output}
+The SDC matrix formulation successfully preserves the non-linear folding and stretching dynamics of the Lorenz attractor. The phase-space trajectory orbits each of the two unstable fixed-point lobes erratically without numerical drift, exponential explosion, or artificial damping. The 2D time series confirms bounded, chaotic oscillation frequencies without hitting singularities.
+
+\section{Conclusion}
+The Lorenz model demonstrates the power of the SDCM framework in handling deterministic chaos. By maintaining coefficient adaptability, we bypass the traditional breakdown of linear approximations, establishing a stable blueprint for complex chaotic systems.

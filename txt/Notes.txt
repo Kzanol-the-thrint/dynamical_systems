@@ -1,0 +1,44 @@
+1. Missing code
+the-schwarzchild-orbit-model - done
+
+2. inconsistent naming
+Is the Regge-Wheeler black hole spacetime curvature model the same as blackhole
+The Gross-Pitaevskii Model - is it  Bose-Einstein Condensate Dynamics - done 
+
+
+
+3. Phase space trajectory straight lines - so either the model is not valid -or the parameters need adjustment for a larger period - done
+
+
+4. Phase space trajectory diagrams are very similar across models/domains - why 
+
+
+
+5. we need to put more detailed content in the model chapter - so it gains strength -and we also need to explain what the model predicts 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+in

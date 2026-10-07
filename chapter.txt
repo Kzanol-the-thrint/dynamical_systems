@@ -1,0 +1,15 @@
+
+Domain
+System Model
+Description
+Set of Equations
+Explanation of Terms
+Note on the problem [Context, History, Why intractable, how we solved it, properties of he solution, prize on solution etc]
+config.py [values]
+input_data.csv [values]
+Initial State Vector
+Final State Vector
+3D Phase Plot
+2D Evolution Plot
+Analysis of the output
+Conclusion
